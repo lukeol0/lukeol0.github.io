@@ -1,2 +1,2 @@
 # Hello i am luke
-I am gay
+# I am a students from spkc 
